@@ -1,0 +1,3 @@
+//cybot
+//written in c++, includes a listener that is doanloaded after clicking a link on a webserver the client visits.
+//the listener listens to the udp broadcast packet from the webserver becasue the client and the server are then on the same network after doanload of the listener script.
